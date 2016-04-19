@@ -54,6 +54,7 @@ $ git push origin --tags
 $ git tag -d v0.9
 $ git push origin :refs/tags/v0.9
 
+add test
 
 
 
@@ -63,4 +64,8 @@ $ git push origin :refs/tags/v0.9
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0e1a6647efeb7013b02d217e17ec1bfb87d5d407
 git push -u origin master
